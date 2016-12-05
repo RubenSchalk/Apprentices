@@ -1,2 +1,2 @@
 # Apprentices
-Apprenticeship data public
+Public apprenticeship data
