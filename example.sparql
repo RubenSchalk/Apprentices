@@ -28,8 +28,3 @@ WHERE {
  
  
  
-Click on “Commit new file”
-Open a new tab, and go to the URL http://grlc.io/api/username/grlc-tutorial , replacing “username” by your GitHub username
-Click on “example”
-Set a value for the parameter, and then click on “Try it out!”
-Check out the result matches that of http://grlc.io/api/RubenSchalk/Apprentices/example?catrel=http%3A%2F%2Fdata.socialhistory.org%2Fresource%2Fcatasto%2Fcode%2FrelationToHead%2F3
